@@ -1,2 +1,1 @@
-# CppPlayground
-C# and C++ test implement 
+Having fun re\implementing weird stuff.
